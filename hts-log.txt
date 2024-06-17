@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 25 Mar 2024 15:20:27 at https://www.freetogame.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://www.freetogame.com/
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.freetogame.com/ -O1 "C:\GameVaultWebsite\GameVault" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://www.freetogame.com/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:45:27	Warning: 	Found for https://www.freetogame.com/giveaway/
+16:45:27	Warning: 	File has moved from https://www.freetogame.com/giveaway/ to http://www.freetogame.com/giveaway
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 25 minutes 35 seconds : 5717 links scanned, 5715 files written (3552794986 bytes overall) [3498421063 bytes received at 681289 bytes/sec], 2641419209 bytes transferred using HTTP compression in 2826 files, ratio 97%, 27.1 requests per connection
+(No errors, 2 warnings, 0 messages)
